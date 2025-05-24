@@ -1,4 +1,5 @@
 # LunarConstellation
+<p align="center">
 ─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ─── <br/>
 ☾ ⋆*｡･ﾟ:⋆*･ﾟ 𝓛𝓾𝓷𝓪𝓻 𝓒𝓸𝓷𝓼𝓽𝓮𝓵𝓵𝓪𝓽𝓲𝓸𝓷 ☾ ⋆*･ﾟ:⋆*･ﾟ <br/>
 
@@ -37,3 +38,4 @@ Hobbies: <ul>
 DNI List: <br/>
 General DNI's: Supporters of horrible people, Racist, Homophobic, ect;... <br/>
 Transphobes, Radqueer
+</p>

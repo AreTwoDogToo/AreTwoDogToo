@@ -30,6 +30,6 @@ DID System of 24 known alters. Collectively, the "Lunar Constellation" but ask f
 
 
 DNI List: <br/>
-General DNI's: Supporters of horrible people, Racist, Homophobic, ect;... <br/>
+General DNI's: Supporters of controversial people, Racist, Homophobic, ect;... <br/>
 Transphobes, Radqueer
 

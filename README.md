@@ -3,7 +3,8 @@
 ─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ─── <br/>
 ☾ ⋆*｡･ﾟ:⋆*･ﾟ 𝓛𝓾𝓷𝓪𝓻 𝓒𝓸𝓷𝓼𝓽𝓮𝓵𝓵𝓪𝓽𝓲𝓸𝓷 ☾ ⋆*･ﾟ:⋆*･ﾟ <br/>
 <p align="center">
-![dfsa](https://github.com/user-attachments/assets/caff0c41-27d8-4042-aa8a-b4c1ae59ca4d)
+
+  ![dfsa](https://github.com/user-attachments/assets/caff0c41-27d8-4042-aa8a-b4c1ae59ca4d)
 
 </p>
 

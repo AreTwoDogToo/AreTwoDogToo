@@ -2,13 +2,16 @@
 <p align="center">
 ─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ─── <br/>
 ☾ ⋆*｡･ﾟ:⋆*･ﾟ 𝓛𝓾𝓷𝓪𝓻 𝓒𝓸𝓷𝓼𝓽𝓮𝓵𝓵𝓪𝓽𝓲𝓸𝓷 ☾ ⋆*･ﾟ:⋆*･ﾟ <br/>
-
+<p align="center">
 ![dfsa](https://github.com/user-attachments/assets/caff0c41-27d8-4042-aa8a-b4c1ae59ca4d)
 
+</p>
 
+<p align="center">
+  ─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ─── <br/>
+</p>
 
-─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ─── <br/>
-
+<p align="center">
 " 𝔽𝕣𝕠𝕞 𝕥𝕙𝕖 𝕣𝕠𝕠𝕗𝕥𝕠𝕡 <br/>
 𝕀 𝕨𝕒𝕥𝕔𝕙 𝕒𝕤 𝕔𝕒𝕣𝕤 𝕘𝕠 𝕓𝕪 <br/>
 𝕀 𝕨𝕒𝕥𝕔𝕙 𝕒𝕤 𝕥𝕙𝕖 𝕤𝕥𝕒𝕣𝕤 <br/>
@@ -20,22 +23,28 @@
 𝔸𝕟𝕕 𝕝𝕚𝕗𝕖 𝕚𝕤 𝕗𝕣𝕖𝕖 " <br/>
 <br/>
 ─── ･ ｡ﾟ｡ﾟ☆: *.☽ .*｡ﾟ :☆ﾟ. ───
+</p>
 
+<p align="center">
 Info: <br/>
 <br/>
 DID System of 24 known alters. Collectively, the "Lunar Constellation" but ask for names! <br/>
 <br/>
 Hobbies: <ul>
+</p>
 
-<li>Writing
-<li>Coding
-<li>Soccer
-<li>Digital art
-<li>Baking
+<li>Writing</li>
+<li>Coding</li>
+<li>Soccer</li>
+<li>Digital art</li>
+<li>Baking</li>
 <li>Violin</li>
 </ul>
+</p>
 <br/>
+  <p align="center">
 DNI List: <br/>
 General DNI's: Supporters of horrible people, Racist, Homophobic, ect;... <br/>
 Transphobes, Radqueer
 </p>
+

@@ -1,8 +1,8 @@
 <body>
 
- <img src="https://github.com/user-attachments/assets/36d59e7a-8148-40fc-8861-3f8d95d92bb3" width="250" height="450" />
+ <p align="center"><img src="https://github.com/user-attachments/assets/36d59e7a-8148-40fc-8861-3f8d95d92bb3" width="250" height="450" /></p>
 
- <p> 𝐹𝓇𝑜𝓂 𝓉𝒽𝑒 𝓇𝑜𝑜𝒻𝓉𝑜𝓅 <br>
+ <p align="center"> 𝐹𝓇𝑜𝓂 𝓉𝒽𝑒 𝓇𝑜𝑜𝒻𝓉𝑜𝓅 <br>
 𝐼 𝓌𝒶𝓉𝒸𝒽 𝒶𝓈 𝒸𝒶𝓇𝓈 𝑔𝑜 𝒷𝓎 <br>
 𝐼 𝓌𝒶𝓉𝒸𝒽 𝒶𝓈 𝓉𝒽𝑒 𝓈𝓉𝒶𝓇𝓈 <br>
 𝐹𝒶𝓁𝓁 𝒻𝓇𝑜𝓂 𝓉𝒽𝑒 𝓈𝓀𝓎 <br>

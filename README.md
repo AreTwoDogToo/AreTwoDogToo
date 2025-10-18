@@ -1,7 +1,10 @@
 <body>
 
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
+
  <p align="center"><img src="https://github.com/user-attachments/assets/36d59e7a-8148-40fc-8861-3f8d95d92bb3" width="250" height="450" /></p>
+ 
+<p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 
  <p align="center"> 𝐹𝓇𝑜𝓂 𝓉𝒽𝑒 𝓇𝑜𝑜𝒻𝓉𝑜𝓅 <br>
 𝐼 𝓌𝒶𝓉𝒸𝒽 𝒶𝓈 𝒸𝒶𝓇𝓈 𝑔𝑜 𝒷𝓎 <br>

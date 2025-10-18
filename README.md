@@ -12,11 +12,11 @@
 𝐹𝑜𝓇 𝐼 𝒶𝓂 𝓈𝓉𝓊𝒸𝓀 <br>
 𝒜𝓃𝒹 𝓁𝒾𝒻𝑒 𝒾𝓈 𝒻𝓇𝑒𝑒. <br> </p>
 
-<p>   
+<p align="center">   
  (\ (\ <br>
 („• ֊ •„) <br>
 ━O━O━━━━━━━━━ <br> 
-・:。𝐢𝐧𝐯𝐢𝐭𝐚𝐭𝐢𝐨𝐧「 ✉️ 」・:三 <br>
+・:。Welcome! Links to my socials below, and on my profile.「 ✉️ 」・:三 <br>
 ━━━━━━━━━━━━━ <br> </p>
 
 </body>

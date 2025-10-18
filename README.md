@@ -20,7 +20,7 @@
  (\ (\ <br>
 („• ֊ •„) <br>
 ━O━O━━━━━━━━━ <br> 
-・:。Welcome! Links to my socials below, and on my profile.「 ✉️ 」・:三 <br>
+・:。Dont have anything nice to say? Leave.「 ✉️ 」・:三 <br>
 ━━━━━━━━━━━━━ <br> </p>
 
 </body>

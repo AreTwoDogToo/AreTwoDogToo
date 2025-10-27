@@ -36,7 +36,7 @@
 ━━━━━━━━━━━━━ <br> </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8" />
+<img src="https://i.pinimg.com/1200x/5d/48/8f/5d488f0d61a59be71be2aee756834cf3.jpg" />
 </p>
 
 </body>

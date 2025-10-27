@@ -35,4 +35,8 @@
 ・:。Respect opinions that you do not understand.「 ✉️ 」・:三 <br>
 ━━━━━━━━━━━━━ <br> </p>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8" />
+</p>
+
 </body>

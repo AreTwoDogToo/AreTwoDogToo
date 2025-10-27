@@ -30,7 +30,7 @@
  (\ (\ <br>
 („• ֊ •„) <br>
 ━O━O━━━━━━━━━ <br> 
-・:。Dont have anything nice to say? Leave.「 ✉️ 」・:三 <br>
+・:。Respect opinions that you do not understand.「 ✉️ 」・:三 <br>
 ━━━━━━━━━━━━━ <br> </p>
 
 </body>

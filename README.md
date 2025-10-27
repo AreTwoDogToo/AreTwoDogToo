@@ -36,7 +36,7 @@
 ━━━━━━━━━━━━━ <br> </p>
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03XXDnRqrKzNBiNulXbhwIjngsjBjLyTspQ&s"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03XXDnRqrKzNBiNulXbhwIjngsjBjLyTspQ&s" width=600/>
 </p>
 
 </body>

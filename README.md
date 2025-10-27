@@ -2,7 +2,7 @@
 
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 
-<img src="![a67b8c4c17501cfb2cecf4cf10809c2d](https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8)" />
+<img src="!https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8" />
  
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 

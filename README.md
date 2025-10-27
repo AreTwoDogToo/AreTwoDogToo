@@ -2,7 +2,7 @@
 
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 
- ![a67b8c4c17501cfb2cecf4cf10809c2d](https://github.com/user-attachments/assets/a0c0a506-6ddf-4e67-b176-63c500a366a7)
+<p align="center"> ![a67b8c4c17501cfb2cecf4cf10809c2d](https://github.com/user-attachments/assets/a0c0a506-6ddf-4e67-b176-63c500a366a7) </p>
  
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 

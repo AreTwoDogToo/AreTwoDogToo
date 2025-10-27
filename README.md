@@ -36,7 +36,7 @@
 ━━━━━━━━━━━━━ <br> </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/1200x/5d/48/8f/5d488f0d61a59be71be2aee756834cf3.jpg" />
+<img src="https://i.pinimg.com/1200x/5d/48/8f/5d488f0d61a59be71be2aee756834cf3.jpg" height="50" width="100" />
 </p>
 
 </body>

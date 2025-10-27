@@ -2,9 +2,7 @@
 
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 
-<p align="center">
-  <img src="![a67b8c4c17501cfb2cecf4cf10809c2d](https://github.com/user-attachments/assets/a0c0a506-6ddf-4e67-b176-63c500a366a7)">
-</p>
+<img src="![a67b8c4c17501cfb2cecf4cf10809c2d](https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8)" width="250" height="250" />
  
 <p align="center">︵‿︵‿୨♡୧‿︵‿︵</p>
 

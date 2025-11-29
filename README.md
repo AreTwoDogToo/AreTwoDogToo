@@ -3,7 +3,7 @@
 <p align="center">︵‿︵‿☾⋆✦⋆☽‿︵‿︵</p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8" />
+<img src="https://github.com/user-attachments/assets/8bdc3de6-a4c1-448b-ac04-d864e30e1ac8" width="100px" height="100px" />
 </p>
  
 <p align="center">︵‿︵‿☾⋆✦⋆☽‿︵‿︵</p>
